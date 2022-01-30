@@ -1,0 +1,14 @@
+2022/01/27 00:56:14 [alert] 10353#10353: lua_code_cache is off; this will hurt performance in /mnt/h/LapisLua/nginx.conf.compiled:16
+2022/01/30 12:49:30 [alert] 107#107: lua_code_cache is off; this will hurt performance in /mnt/h/LapisLua/nginx.conf.compiled:16
+2022/01/30 13:34:53 [alert] 127#127: lua_code_cache is off; this will hurt performance in /mnt/h/LapisLua/nginx.conf.compiled:16
+2022/01/30 13:35:17 [alert] 147#147: lua_code_cache is off; this will hurt performance in /mnt/h/LapisLua/nginx.conf.compiled:16
+2022/01/30 13:47:26 [alert] 167#167: lua_code_cache is off; this will hurt performance in /mnt/h/LapisLua/nginx.conf.compiled:16
+2022/01/30 13:49:03 [alert] 187#187: lua_code_cache is off; this will hurt performance in /mnt/h/LapisLua/nginx.conf.compiled:16
+2022/01/30 13:49:23 [alert] 207#207: lua_code_cache is off; this will hurt performance in /mnt/h/LapisLua/nginx.conf.compiled:16
+2022/01/30 13:51:38 [alert] 400#400: lua_code_cache is off; this will hurt performance in /mnt/h/LapisLua/nginx.conf.compiled:16
+2022/01/30 13:56:37 [alert] 420#420: lua_code_cache is off; this will hurt performance in /mnt/h/LapisLua/nginx.conf.compiled:16
+2022/01/30 14:00:59 [alert] 440#440: lua_code_cache is off; this will hurt performance in /mnt/h/LapisLua/nginx.conf.compiled:16
+2022/01/30 14:01:22 [alert] 460#460: lua_code_cache is off; this will hurt performance in /mnt/h/LapisLua/nginx.conf.compiled:16
+2022/01/30 14:01:47 [alert] 480#480: lua_code_cache is off; this will hurt performance in /mnt/h/LapisLua/nginx.conf.compiled:16
+2022/01/30 15:06:51 [alert] 500#500: lua_code_cache is off; this will hurt performance in /mnt/h/LapisLua/nginx.conf.compiled:16
+2022/01/30 15:09:13 [alert] 520#520: lua_code_cache is off; this will hurt performance in /mnt/h/LapisLua/nginx.conf.compiled:16
