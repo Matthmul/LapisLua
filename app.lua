@@ -18,12 +18,10 @@ rules =  {
 function authenticator(model, operation_name)
   local model_rules = rules[model]
   if not model_rules then
-    print("aa")
     return function() return false end
   else
     local rule = model_rules[operation_name]
     if not rule then
-      print("bb")
       return function() return false end
     else
       return function(record, newRecord)
@@ -48,7 +46,7 @@ end
 -- MAIN
 app:get("/", function()
   
-  return "Lapis version " .. require("lapis.version") .. " , version " .. tostring(_VERSION) .. " " .. tostring(_VERSION)
+  return "Server running. Lapis " .. require("lapis.version") .. " , " .. tostring(_VERSION)
 end)
 
 -- CREATE

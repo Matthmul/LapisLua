@@ -2,7 +2,6 @@ local config = require("lapis.config")
 
 config("development", {
 mysql  = {
-    -- backend = "lue-resty-mysql",
     host = "127.0.0.1",
     user = "root",
     password = "root",
@@ -13,7 +12,6 @@ mysql  = {
 
 config("production", {
 mysql  = {
-    -- backend = "lue-resty-mysql",
     host = "127.0.0.1",
     user = "root",
     password = "root",
